@@ -1,14 +1,7 @@
-# NeteaseCloudMusicApi
+# CloudMusicApi
 
-网易云音乐 NodeJS 版 API
+网易云音乐API
 
-## 灵感来自
-
-[disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music)
-
-[darknessomi/musicbox](https://github.com/darknessomi/musicbox)
-
-[sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node)
 
 ## 工作原理
 
@@ -2191,4 +2184,4 @@ type='1009' 获取其 id, 如`/search?keywords= 代码时间 &type=1009`
 
 ## License
 
-[The MIT License (MIT)](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/LICENSE)
+[The MIT License (MIT)](https://github.com/hackeralex999/CLOUDMUSICAPI/blob/master/LICENSE)
